@@ -1,0 +1,253 @@
+,Field_of_Study,Category,Year,Number,Percent
+1,"Aerospace, aeronautical, and astronautical engineering",Engineering,1987,142,0.4
+2,"Aerospace, aeronautical, and astronautical engineering",Engineering,1992,234,0.6
+3,"Aerospace, aeronautical, and astronautical engineering",Engineering,1997,273,0.6
+4,"Aerospace, aeronautical, and astronautical engineering",Engineering,2002,209,0.5
+5,"Aerospace, aeronautical, and astronautical engineering",Engineering,2007,267,0.6
+6,"Aerospace, aeronautical, and astronautical engineering",Engineering,2012,307,0.6
+7,"Aerospace, aeronautical, and astronautical engineering",Engineering,2017,378,0.7
+8,Agricultural sciences and natural resources,Life sciences,1987,1144,3.5
+9,Agricultural sciences and natural resources,Life sciences,1992,1261,3.2
+10,Agricultural sciences and natural resources,Life sciences,1997,1212,2.8
+11,Agricultural sciences and natural resources,Life sciences,2002,1129,2.8
+12,Agricultural sciences and natural resources,Life sciences,2007,1321,2.7
+13,Agricultural sciences and natural resources,Life sciences,2012,1255,2.5
+14,Agricultural sciences and natural resources,Life sciences,2017,1606,2.9
+15,Anthropology,Psychology and social sciences,1987,352,1.1
+16,Anthropology,Psychology and social sciences,1992,320,0.8
+17,Anthropology,Psychology and social sciences,1997,434,1
+18,Anthropology,Psychology and social sciences,2002,496,1.2
+19,Anthropology,Psychology and social sciences,2007,512,1.1
+20,Anthropology,Psychology and social sciences,2012,547,1.1
+21,Anthropology,Psychology and social sciences,2017,455,0.8
+22,Bioengineering and biomedical engineering,Engineering,1987,75,0.2
+23,Bioengineering and biomedical engineering,Engineering,1992,147,0.4
+24,Bioengineering and biomedical engineering,Engineering,1997,211,0.5
+25,Bioengineering and biomedical engineering,Engineering,2002,246,0.6
+26,Bioengineering and biomedical engineering,Engineering,2007,637,1.3
+27,Bioengineering and biomedical engineering,Engineering,2012,943,1.9
+28,Bioengineering and biomedical engineering,Engineering,2017,1041,1.9
+29,Biological and biomedical sciences,Life sciences,1987,3839,11.9
+30,Biological and biomedical sciences,Life sciences,1992,4799,12.3
+31,Biological and biomedical sciences,Life sciences,1997,5788,13.6
+32,Biological and biomedical sciences,Life sciences,2002,5695,14.2
+33,Biological and biomedical sciences,Life sciences,2007,7238,15
+34,Biological and biomedical sciences,Life sciences,2012,8322,16.3
+35,Biological and biomedical sciences,Life sciences,2017,8477,15.5
+36,Business management and administration,Othera,1987,981,3
+37,Business management and administration,Othera,1992,1248,3.2
+38,Business management and administration,Othera,1997,1245,2.9
+39,Business management and administration,Othera,2002,1113,2.8
+40,Business management and administration,Othera,2007,1506,3.1
+41,Business management and administration,Othera,2012,1404,2.8
+42,Business management and administration,Othera,2017,1522,2.8
+43,Chemical engineering,Engineering,1987,527,1.6
+44,Chemical engineering,Engineering,1992,607,1.6
+45,Chemical engineering,Engineering,1997,662,1.6
+46,Chemical engineering,Engineering,2002,607,1.5
+47,Chemical engineering,Engineering,2007,817,1.7
+48,Chemical engineering,Engineering,2012,840,1.6
+49,Chemical engineering,Engineering,2017,936,1.7
+50,Chemistry,Physical sciences and earth sciences,1987,1975,6.1
+51,Chemistry,Physical sciences and earth sciences,1992,2213,5.7
+52,Chemistry,Physical sciences and earth sciences,1997,2148,5
+53,Chemistry,Physical sciences and earth sciences,2002,1922,4.8
+54,Chemistry,Physical sciences and earth sciences,2007,2318,4.8
+55,Chemistry,Physical sciences and earth sciences,2012,2416,4.7
+56,Chemistry,Physical sciences and earth sciences,2017,2697,4.9
+57,Civil engineering,Engineering,1987,441,1.4
+58,Civil engineering,Engineering,1992,540,1.4
+59,Civil engineering,Engineering,1997,592,1.4
+60,Civil engineering,Engineering,2002,540,1.3
+61,Civil engineering,Engineering,2007,703,1.5
+62,Civil engineering,Engineering,2012,495,1
+63,Civil engineering,Engineering,2017,741,1.4
+64,Communication,Othera,1987,309,1
+65,Communication,Othera,1992,330,0.8
+66,Communication,Othera,1997,331,0.8
+67,Communication,Othera,2002,397,1
+68,Communication,Othera,2007,560,1.2
+69,Communication,Othera,2012,595,1.2
+70,Communication,Othera,2017,626,1.1
+71,Computer and information sciences,Mathematics and computer sciences,1987,450,1.4
+72,Computer and information sciences,Mathematics and computer sciences,1992,869,2.2
+73,Computer and information sciences,Mathematics and computer sciences,1997,909,2.1
+74,Computer and information sciences,Mathematics and computer sciences,2002,809,2
+75,Computer and information sciences,Mathematics and computer sciences,2007,1654,3.4
+76,Computer and information sciences,Mathematics and computer sciences,2012,1793,3.5
+77,Computer and information sciences,Mathematics and computer sciences,2017,1987,3.6
+78,Economics,Psychology and social sciences,1987,821,2.5
+79,Economics,Psychology and social sciences,1992,910,2.3
+80,Economics,Psychology and social sciences,1997,1030,2.4
+81,Economics,Psychology and social sciences,2002,908,2.3
+82,Economics,Psychology and social sciences,2007,1004,2.1
+83,Economics,Psychology and social sciences,2012,1243,2.4
+84,Economics,Psychology and social sciences,2017,1237,2.3
+85,Education administration,Education,1987,1687,5.2
+86,Education administration,Education,1992,1984,5.1
+87,Education administration,Education,1997,2050,4.8
+88,Education administration,Education,2002,2351,5.9
+89,Education administration,Education,2007,2161,4.5
+90,Education administration,Education,2012,1057,2.1
+91,Education administration,Education,2017,1023,1.9
+92,Education research,Education,1987,2601,8
+93,Education research,Education,1992,2503,6.4
+94,Education research,Education,1997,2695,6.3
+95,Education research,Education,2002,2776,6.9
+96,Education research,Education,2007,2671,5.5
+97,Education research,Education,2012,2569,5
+98,Education research,Education,2017,2405,4.4
+99,"Electrical, electronics, and communications engineering",Engineering,1987,691,2.1
+100,"Electrical, electronics, and communications engineering",Engineering,1992,1278,3.3
+101,"Electrical, electronics, and communications engineering",Engineering,1997,1460,3.4
+102,"Electrical, electronics, and communications engineering",Engineering,2002,1212,3
+103,"Electrical, electronics, and communications engineering",Engineering,2007,1967,4.1
+104,"Electrical, electronics, and communications engineering",Engineering,2012,1938,3.8
+105,"Electrical, electronics, and communications engineering",Engineering,2017,1900,3.5
+106,Foreign languages and literature,Humanities and arts,1987,444,1.4
+107,Foreign languages and literature,Humanities and arts,1992,562,1.4
+108,Foreign languages and literature,Humanities and arts,1997,652,1.5
+109,Foreign languages and literature,Humanities and arts,2002,627,1.6
+110,Foreign languages and literature,Humanities and arts,2007,607,1.3
+111,Foreign languages and literature,Humanities and arts,2012,684,1.3
+112,Foreign languages and literature,Humanities and arts,2017,624,1.1
+113,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences,1987,599,1.9
+114,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences,1992,767,2
+115,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences,1997,803,1.9
+116,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences,2002,689,1.7
+117,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences,2007,875,1.8
+118,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences,2012,941,1.8
+119,"Geosciences, atmospheric sciences, and ocean sciences",Physical sciences and earth sciences,2017,1165,2.1
+120,Health sciences,Life sciences,1987,800,2.5
+121,Health sciences,Life sciences,1992,1112,2.9
+122,Health sciences,Life sciences,1997,1421,3.3
+123,Health sciences,Life sciences,2002,1654,4.1
+124,Health sciences,Life sciences,2007,2143,4.5
+125,Health sciences,Life sciences,2012,2387,4.7
+126,Health sciences,Life sciences,2017,2509,4.6
+127,History,Humanities and arts,1987,585,1.8
+128,History,Humanities and arts,1992,724,1.9
+129,History,Humanities and arts,1997,965,2.3
+130,History,Humanities and arts,2002,1031,2.6
+131,History,Humanities and arts,2007,937,1.9
+132,History,Humanities and arts,2012,1086,2.1
+133,History,Humanities and arts,2017,1066,2
+134,Industrial and manufacturing engineering,Engineering,1987,120,0.4
+135,Industrial and manufacturing engineering,Engineering,1992,196,0.5
+136,Industrial and manufacturing engineering,Engineering,1997,246,0.6
+137,Industrial and manufacturing engineering,Engineering,2002,230,0.6
+138,Industrial and manufacturing engineering,Engineering,2007,279,0.6
+139,Industrial and manufacturing engineering,Engineering,2012,226,0.4
+140,Industrial and manufacturing engineering,Engineering,2017,253,0.5
+141,Letters,Humanities and arts,1987,945,2.9
+142,Letters,Humanities and arts,1992,1278,3.3
+143,Letters,Humanities and arts,1997,1550,3.6
+144,Letters,Humanities and arts,2002,1455,3.6
+145,Letters,Humanities and arts,2007,1340,2.8
+146,Letters,Humanities and arts,2012,1638,3.2
+147,Letters,Humanities and arts,2017,1465,2.7
+148,Materials science engineering,Engineering,1987,238,0.7
+149,Materials science engineering,Engineering,1992,365,0.9
+150,Materials science engineering,Engineering,1997,483,1.1
+151,Materials science engineering,Engineering,2002,364,0.9
+152,Materials science engineering,Engineering,2007,646,1.3
+153,Materials science engineering,Engineering,2012,743,1.5
+154,Materials science engineering,Engineering,2017,958,1.8
+155,Mathematics and statistics,Mathematics and computer sciences,1987,739,2.3
+156,Mathematics and statistics,Mathematics and computer sciences,1992,1058,2.7
+157,Mathematics and statistics,Mathematics and computer sciences,1997,1123,2.6
+158,Mathematics and statistics,Mathematics and computer sciences,2002,920,2.3
+159,Mathematics and statistics,Mathematics and computer sciences,2007,1388,2.9
+160,Mathematics and statistics,Mathematics and computer sciences,2012,1703,3.3
+161,Mathematics and statistics,Mathematics and computer sciences,2017,1856,3.4
+162,Mechanical engineering,Engineering,1987,544,1.7
+163,Mechanical engineering,Engineering,1992,855,2.2
+164,Mechanical engineering,Engineering,1997,929,2.2
+165,Mechanical engineering,Engineering,2002,771,1.9
+166,Mechanical engineering,Engineering,2007,1071,2.2
+167,Mechanical engineering,Engineering,2012,1220,2.4
+168,Mechanical engineering,Engineering,2017,1409,2.6
+169,Non-S&E fields nec,Othera,1987,586,1.8
+170,Non-S&E fields nec,Othera,1992,628,1.6
+171,Non-S&E fields nec,Othera,1997,614,1.4
+172,Non-S&E fields nec,Othera,2002,628,1.6
+173,Non-S&E fields nec,Othera,2007,772,1.6
+174,Non-S&E fields nec,Othera,2012,735,1.4
+175,Non-S&E fields nec,Othera,2017,965,1.8
+176,Other education,Education,1987,653,2
+177,Other education,Education,1992,775,2
+178,Other education,Education,1997,622,1.5
+179,Other education,Education,2002,433,1.1
+180,Other education,Education,2007,446,0.9
+181,Other education,Education,2012,264,0.5
+182,Other education,Education,2017,375,0.7
+183,Other engineering,Engineering,1987,934,2.9
+184,Other engineering,Engineering,1992,1216,3.1
+185,Other engineering,Engineering,1997,1258,3
+186,Other engineering,Engineering,2002,902,2.3
+187,Other engineering,Engineering,2007,1362,2.8
+188,Other engineering,Engineering,2012,1757,3.4
+189,Other engineering,Engineering,2017,2227,4.1
+190,Other humanities and arts,Humanities and arts,1987,1504,4.6
+191,Other humanities and arts,Humanities and arts,1992,1823,4.7
+192,Other humanities and arts,Humanities and arts,1997,2118,5
+193,Other humanities and arts,Humanities and arts,2002,2184,5.5
+194,Other humanities and arts,Humanities and arts,2007,2201,4.6
+195,Other humanities and arts,Humanities and arts,2012,2153,4.2
+196,Other humanities and arts,Humanities and arts,2017,2135,3.9
+197,Other social sciences,Psychology and social sciences,1987,891,2.8
+198,Other social sciences,Psychology and social sciences,1992,1062,2.7
+199,Other social sciences,Psychology and social sciences,1997,1106,2.6
+200,Other social sciences,Psychology and social sciences,2002,1161,2.9
+201,Other social sciences,Psychology and social sciences,2007,1353,2.8
+202,Other social sciences,Psychology and social sciences,2012,1752,3.4
+203,Other social sciences,Psychology and social sciences,2017,1986,3.6
+204,Physics and astronomy,Physical sciences and earth sciences,1987,1237,3.8
+205,Physics and astronomy,Physical sciences and earth sciences,1992,1537,4
+206,Physics and astronomy,Physical sciences and earth sciences,1997,1599,3.8
+207,Physics and astronomy,Physical sciences and earth sciences,2002,1264,3.2
+208,Physics and astronomy,Physical sciences and earth sciences,2007,1763,3.7
+209,Physics and astronomy,Physical sciences and earth sciences,2012,2062,4
+210,Physics and astronomy,Physical sciences and earth sciences,2017,2219,4.1
+211,Political science and government,Psychology and social sciences,1987,404,1.2
+212,Political science and government,Psychology and social sciences,1992,513,1.3
+213,Political science and government,Psychology and social sciences,1997,665,1.6
+214,Political science and government,Psychology and social sciences,2002,606,1.5
+215,Political science and government,Psychology and social sciences,2007,588,1.2
+216,Political science and government,Psychology and social sciences,2012,724,1.4
+217,Political science and government,Psychology and social sciences,2017,752,1.4
+218,Psychology,Psychology and social sciences,1987,3172,9.8
+219,Psychology,Psychology and social sciences,1992,3262,8.4
+220,Psychology,Psychology and social sciences,1997,3557,8.4
+221,Psychology,Psychology and social sciences,2002,3207,8
+222,Psychology,Psychology and social sciences,2007,3276,6.8
+223,Psychology,Psychology and social sciences,2012,3599,7.1
+224,Psychology,Psychology and social sciences,2017,3960,7.2
+225,Sociology,Psychology and social sciences,1987,423,1.3
+226,Sociology,Psychology and social sciences,1992,495,1.3
+227,Sociology,Psychology and social sciences,1997,577,1.4
+228,Sociology,Psychology and social sciences,2002,547,1.4
+229,Sociology,Psychology and social sciences,2007,576,1.2
+230,Sociology,Psychology and social sciences,2012,633,1.2
+231,Sociology,Psychology and social sciences,2017,689,1.3
+232,Teacher education,Education,1987,447,1.4
+233,Teacher education,Education,1992,407,1
+234,Teacher education,Education,1997,291,0.7
+235,Teacher education,Education,2002,262,0.7
+236,Teacher education,Education,2007,297,0.6
+237,Teacher education,Education,2012,156,0.3
+238,Teacher education,Education,2017,112,0.2
+239,Teaching fields,Education,1987,1065,3.3
+240,Teaching fields,Education,1992,1008,2.6
+241,Teaching fields,Education,1997,919,2.2
+242,Teaching fields,Education,2002,686,1.7
+243,Teaching fields,Education,2007,873,1.8
+244,Teaching fields,Education,2012,757,1.5
+245,Teaching fields,Education,2017,908,1.7
+246,Unknown field,Othera,1987,0,0
+247,Unknown field,Othera,1992,0,0
+248,Unknown field,Othera,1997,1,NA
+249,Unknown field,Othera,2002,0,0
+250,Unknown field,Othera,2007,3,NA
+251,Unknown field,Othera,2012,0,0
+252,Unknown field,Othera,2017,0,0
